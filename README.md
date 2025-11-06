@@ -1,3 +1,7 @@
+This app allows live price view of various crypto currencies.
+
+
+
 # React + Vite
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
